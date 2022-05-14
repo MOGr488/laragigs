@@ -18,7 +18,7 @@ Controllers are what define what a route do. You can say when a route is request
 - What are Views? <br>
 Views are what users see. You can split your work into components for example: you can make the navigation bar a component and add it to any View (Page) you want easily.
 
-It's truelly a powerfull framework where you just foucs in coding and you don't have to worry about Authentication or CSRF. Becuase Laravel already provide a simple one line of code to do all that critical stuff efficiently.  
+It's truly a powerfull framework where you just foucs in coding and you don't have to worry about Authentication or CSRF. Becuase Laravel already provide a simple one line of code to do all that critical stuff efficiently.  
 
 
 
