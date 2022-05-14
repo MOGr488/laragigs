@@ -7,6 +7,22 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About this project
+This project was made with following [Laravel 9 from scratch](https://youtu.be/MYyJ4PuL4pY) Course. [bradtraversy](https://github.com/bradtraversy) Thanks for him I have understood Laravel.
+few things I have learnt
+- What are Routes? <br>
+When you click submit button or type a URL it makes some kind of request. In Laravel you can define and manipulate where does the route goes to and what kind of request it is? is it POST request or GET request ? then link that route to a controller.Ex('/login.php')
+- What are Controllers? <br>
+Controllers are what define what a route do. You can say when a route is requested show the user this sepecific (VIEW) page which is named (login).
+
+- What are Views? <br>
+Views are what users see. You can split your work into components for example: you can make the navigation bar a component and add it to any View (Page) you want easily.
+
+It's truelly a powerfull framework where you just foucs in coding and you don't have to worry about Authentication or CSRF. Becuase Laravel already provide a simple one line of code to do all that critical stuff efficiently.  
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
